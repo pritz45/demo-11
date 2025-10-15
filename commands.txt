@@ -1,0 +1,10 @@
+git init
+git add .
+git commit -m ""
+git status
+git remote -v
+git remote add origin <url>
+git remote remove origin
+git push origin <branch:name>
+git clone <url>
+git pull origin <branch:name>
